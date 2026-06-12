@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Engineering student</h3>
 
 - 🌱 I’m currently learning **new technologies by building projects**
-- 💬 Ask me about **C, C++, Python, Java, HTML, CSS**
+- 💬 Ask me about **C, C++, Python, JavaScript, HTML, CSS**
 - 🎨 I’m good at **styling and creating aesthetically pleasing interfaces**
 - 📫 How to reach me: **shravani.bhosale24@pccoepune.org**
 
